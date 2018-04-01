@@ -1,7 +1,6 @@
 import ListScreen from '../screens/ListScreen';
 import {connect} from 'react-redux';
 import { getFilms } from '../data/actions/api';
-
  
 const mapStateToProps = (state) => ({
   films: state.films,

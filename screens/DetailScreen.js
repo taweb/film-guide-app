@@ -42,7 +42,6 @@ class DetailScreen extends Component {
             <Text style={styles.paragraph}>{synopsis}</Text>
           </View>
         </View>
- 
       </ScrollView>
     ); 
   }
