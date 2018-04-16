@@ -1,4 +1,4 @@
-# Film Guide App
+# Films on Freeview App
 
 ## A React Native mobile app built using Redux, Axios and Redux Thunk middleware.
 

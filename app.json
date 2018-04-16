@@ -1,5 +1,7 @@
 {
   "expo": {
+  	"name": "Films on Freeview",
+  	"slug": "films-on-freeview",
     "sdkVersion": "25.0.0"
   }
 }
